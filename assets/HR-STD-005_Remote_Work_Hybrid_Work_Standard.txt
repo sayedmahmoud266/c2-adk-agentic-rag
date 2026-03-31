@@ -1,0 +1,43 @@
+DOCUMENT_NAME: HR-STD-005_Remote_Work_Hybrid_Work_Standard
+CONTENT_TYPE: HR_STANDARD
+FORMAT_VERSION: 1.0
+================================================================================
+P-00.00-0004: HR-STD-005 Remote Work & Hybrid Work Standard
+
+[SUBSECTION 00.01] 1. Eligibility
+SECTION_ID: SEC-00.01-1_ELIGIBILITY
+--------------------------------------------------------------------------------
+P-00.01-0009: Remote work is available to employees:
+P-00.01-0010: After completing probation
+P-00.01-0011: With manager approval
+P-00.01-0012: Role must be suitable
+
+[SUBSECTION 00.02] 2. Remote Work Rules
+SECTION_ID: SEC-00.02-2_REMOTE_WORK_RULES
+--------------------------------------------------------------------------------
+P-00.02-0017: Employee must be reachable on Teams during working hours.
+P-00.02-0018: Attendance must be recorded via HR Portal.
+P-00.02-0019: Weekly productivity report required for full remote roles.
+
+[SUBSECTION 00.03] 3. Security Requirements
+SECTION_ID: SEC-00.03-3_SECURITY_REQUIREMENTS
+--------------------------------------------------------------------------------
+P-00.03-0024: Remote employees must:
+P-00.03-0025: Use organization VPN
+P-00.03-0026: Not store company data on personal devices
+P-00.03-0027: Follow Data Classification Standard
+
+[SUBSECTION 00.04] 4. Remote Work Limit
+SECTION_ID: SEC-00.04-4_REMOTE_WORK_LIMIT
+--------------------------------------------------------------------------------
+P-00.04-0032: Hybrid schedule maximum: 2 remote days per week.
+P-00.04-0033: Exceptions require HR Director approval.
+
+[TABLES]
+--------------------------------------------------------------------------------
+TABLE_01_START
+ROW_01: Version | 1.0
+ROW_02: Effective Date | 01-Jan-2026
+ROW_03: Owner | HR Policy Office
+TABLE_01_END
+--------------------------------------------------------------------------------

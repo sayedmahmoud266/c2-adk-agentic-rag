@@ -1,0 +1,59 @@
+DOCUMENT_NAME: HR-STD-002_Leave_Management_Standard
+CONTENT_TYPE: HR_STANDARD
+FORMAT_VERSION: 1.0
+================================================================================
+P-00.00-0004: HR-STD-002 Leave Management Standard
+
+[SUBSECTION 00.01] 1. Purpose
+SECTION_ID: SEC-00.01-1_PURPOSE
+--------------------------------------------------------------------------------
+P-00.01-0009: Defines leave types, eligibility, approval workflow, and documentation.
+
+[SUBSECTION 00.02] 2. Leave Types
+SECTION_ID: SEC-00.02-2_LEAVE_TYPES
+--------------------------------------------------------------------------------
+P-00.02-0014: 2.1 Annual Leave
+P-00.02-0015: Eligibility: all permanent employees
+P-00.02-0016: Entitlement: 30 calendar days per year
+P-00.02-0017: Carry forward: maximum 5 days to next year
+P-00.02-0018: 2.2 Sick Leave
+P-00.02-0019: Maximum entitlement: 30 days per year
+P-00.02-0020: Medical report required if sick leave exceeds 2 consecutive days
+P-00.02-0021: 2.3 Emergency Leave
+P-00.02-0022: Maximum entitlement: 3 days per year
+P-00.02-0023: Requires manager approval
+P-00.02-0024: 2.4 Maternity Leave
+P-00.02-0025: Entitlement: 10 weeks
+P-00.02-0026: Requires HR documentation
+P-00.02-0027: 2.5 Hajj Leave
+P-00.02-0028: Entitlement: 10 calendar days
+P-00.02-0029: Eligible once during employment (subject to national regulation)
+
+[SUBSECTION 00.03] 3. Approval Workflow
+SECTION_ID: SEC-00.03-3_APPROVAL_WORKFLOW
+--------------------------------------------------------------------------------
+P-00.03-0034: Employee submits request on HR Portal
+P-00.03-0035: Line manager approves within 2 business days
+P-00.03-0036: HR validates policy compliance
+P-00.03-0037: Employee receives confirmation email
+
+[SUBSECTION 00.04] 4. Leave During Probation
+SECTION_ID: SEC-00.04-4_LEAVE_DURING_PROBATION
+--------------------------------------------------------------------------------
+P-00.04-0042: Annual leave during probation is not allowed unless:
+P-00.04-0043: HR Director approves, and leave type is emergency leave.
+
+[SUBSECTION 00.05] 5. Leave Cancellation
+SECTION_ID: SEC-00.05-5_LEAVE_CANCELLATION
+--------------------------------------------------------------------------------
+P-00.05-0048: Employee may cancel leave before start date.
+P-00.05-0049: Manager approval required.
+
+[TABLES]
+--------------------------------------------------------------------------------
+TABLE_01_START
+ROW_01: Version | 1.0
+ROW_02: Effective Date | 01-Jan-2026
+ROW_03: Owner | HR Shared Services
+TABLE_01_END
+--------------------------------------------------------------------------------

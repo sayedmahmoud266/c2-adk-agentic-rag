@@ -1,0 +1,54 @@
+DOCUMENT_NAME: HR-STD-003_Employee_Onboarding_Probation_Standard
+CONTENT_TYPE: HR_STANDARD
+FORMAT_VERSION: 1.0
+================================================================================
+P-00.00-0004: HR-STD-003 Employee Onboarding & Probation Standard
+
+[SUBSECTION 00.01] 1. Purpose
+SECTION_ID: SEC-00.01-1_PURPOSE
+--------------------------------------------------------------------------------
+P-00.01-0009: Ensures a consistent onboarding process and probation evaluation.
+
+[SUBSECTION 00.02] 2. Scope
+SECTION_ID: SEC-00.02-2_SCOPE
+--------------------------------------------------------------------------------
+P-00.02-0014: Applies to all newly hired employees and internal transfers.
+
+[SUBSECTION 00.03] 3. Onboarding Activities (First 30 Days)
+SECTION_ID: SEC-00.03-3_ONBOARDING_ACTIVITIES_FIRST_30_DAYS
+--------------------------------------------------------------------------------
+P-00.03-0019: Day 1 Requirements:
+P-00.03-0020: Signed employment contract
+P-00.03-0021: Employee ID creation
+P-00.03-0022: IT access request submitted
+P-00.03-0023: Workstation allocated
+P-00.03-0024: Week 1:
+P-00.03-0025: HR orientation session
+P-00.03-0026: Code of Conduct acknowledgment
+P-00.03-0027: Security awareness training
+P-00.03-0028: Week 2- 4:
+P-00.03-0029: Department orientation
+P-00.03-0030: Assigned “Buddy”
+P-00.03-0031: Manager onboarding plan (weekly check-ins)
+
+[SUBSECTION 00.04] 4. Probation Period
+SECTION_ID: SEC-00.04-4_PROBATION_PERIOD
+--------------------------------------------------------------------------------
+P-00.04-0036: Standard probation: 3 months
+P-00.04-0037: Extended probation: up to 6 months (requires HR Director approval)
+
+[SUBSECTION 00.05] 5. Probation Evaluation
+SECTION_ID: SEC-00.05-5_PROBATION_EVALUATION
+--------------------------------------------------------------------------------
+P-00.05-0042: Manager must submit evaluation after 60 days.
+P-00.05-0043: Final evaluation by day 85.
+P-00.05-0044: Outcomes: confirm employment, extend probation, or terminate employment (subject to regulations).
+
+[TABLES]
+--------------------------------------------------------------------------------
+TABLE_01_START
+ROW_01: Version | 1.0
+ROW_02: Effective Date | 01-Jan-2026
+ROW_03: Owner | Talent Acquisition
+TABLE_01_END
+--------------------------------------------------------------------------------

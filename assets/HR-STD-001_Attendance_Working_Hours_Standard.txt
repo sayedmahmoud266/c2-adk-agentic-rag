@@ -1,0 +1,65 @@
+DOCUMENT_NAME: HR-STD-001_Attendance_Working_Hours_Standard
+CONTENT_TYPE: HR_STANDARD
+FORMAT_VERSION: 1.0
+================================================================================
+P-00.00-0004: HR-STD-001 Attendance & Working Hours Standard
+
+[SUBSECTION 00.01] 1. Purpose
+SECTION_ID: SEC-00.01-1_PURPOSE
+--------------------------------------------------------------------------------
+P-00.01-0009: This standard defines working hours, attendance recording, breaks, overtime, and lateness rules.
+
+[SUBSECTION 00.02] 2. Scope
+SECTION_ID: SEC-00.02-2_SCOPE
+--------------------------------------------------------------------------------
+P-00.02-0014: Applies to all employees (permanent, contractual, and interns) working at the organization offices and remote work locations.
+
+[SUBSECTION 00.03] 3. Working Hours
+SECTION_ID: SEC-00.03-3_WORKING_HOURS
+--------------------------------------------------------------------------------
+P-00.03-0019: Standard working hours: 08:00 AM -  04:00 PM, Sunday to Thursday.
+P-00.03-0020: Break: 1 hour break between 12:00 PM -  02:00 PM.
+P-00.03-0021: Friday/Saturday are weekends unless business need requires work.
+
+[SUBSECTION 00.04] 4. Attendance Recording
+SECTION_ID: SEC-00.04-4_ATTENDANCE_RECORDING
+--------------------------------------------------------------------------------
+P-00.04-0026: Employees must record attendance using:
+P-00.04-0027: HR Portal (web/mobile) OR
+P-00.04-0028: Office biometric device (if applicable).
+
+[SUBSECTION 00.05] 5. Lateness
+SECTION_ID: SEC-00.05-5_LATENESS
+--------------------------------------------------------------------------------
+P-00.05-0033: Lateness is defined as arriving after 08:15 AM.
+P-00.05-0034: Grace period: 15 minutes.
+P-00.05-0035: Late arrival more than 3 times per month triggers an HR warning.
+
+[SUBSECTION 00.06] 6. Absence
+SECTION_ID: SEC-00.06-6_ABSENCE
+--------------------------------------------------------------------------------
+P-00.06-0040: Unplanned absence must be reported to line manager before 09:00 AM.
+P-00.06-0041: Absence without approval is considered Unauthorized Absence.
+
+[SUBSECTION 00.07] 7. Overtime
+SECTION_ID: SEC-00.07-7_OVERTIME
+--------------------------------------------------------------------------------
+P-00.07-0046: Overtime requires prior written approval from line manager.
+P-00.07-0047: HR approval is required if overtime exceeds 10 hours per month.
+P-00.07-0048: Overtime calculation:
+P-00.07-0049: Weekdays: 1.25x hourly rate
+P-00.07-0050: Weekends: 1.50x hourly rate
+
+[SUBSECTION 00.08] 8. Exceptions
+SECTION_ID: SEC-00.08-8_EXCEPTIONS
+--------------------------------------------------------------------------------
+P-00.08-0055: Any exception to this standard must be approved by HR Director.
+
+[TABLES]
+--------------------------------------------------------------------------------
+TABLE_01_START
+ROW_01: Version | 1.0
+ROW_02: Effective Date | 01-Jan-2026
+ROW_03: Owner | HR Operations
+TABLE_01_END
+--------------------------------------------------------------------------------

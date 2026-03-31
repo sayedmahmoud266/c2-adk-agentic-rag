@@ -1,0 +1,52 @@
+DOCUMENT_NAME: HR-STD-004_Disciplinary_Code_of_Conduct_Standard
+CONTENT_TYPE: HR_STANDARD
+FORMAT_VERSION: 1.0
+================================================================================
+P-00.00-0004: HR-STD-004 Disciplinary & Code of Conduct Standard
+
+[SUBSECTION 00.01] 1. Purpose
+SECTION_ID: SEC-00.01-1_PURPOSE
+--------------------------------------------------------------------------------
+P-00.01-0009: Defines violation types and disciplinary process.
+
+[SUBSECTION 00.02] 2. Misconduct Categories
+SECTION_ID: SEC-00.02-2_MISCONDUCT_CATEGORIES
+--------------------------------------------------------------------------------
+P-00.02-0014: Minor Misconduct examples:
+P-00.02-0015: Repeated lateness
+P-00.02-0016: Failure to follow process
+P-00.02-0017: Unprofessional communication
+P-00.02-0018: Major Misconduct examples:
+P-00.02-0019: Data leakage
+P-00.02-0020: Harassment
+P-00.02-0021: Fraud or bribery
+P-00.02-0022: System misuse
+
+[SUBSECTION 00.03] 3. Disciplinary Steps
+SECTION_ID: SEC-00.03-3_DISCIPLINARY_STEPS
+--------------------------------------------------------------------------------
+P-00.03-0027: 1) Verbal warning (documented)
+P-00.03-0028: 2) First written warning
+P-00.03-0029: 3) Final written warning
+P-00.03-0030: 4) Termination (HR + Legal review required)
+
+[SUBSECTION 00.04] 4. Investigation
+SECTION_ID: SEC-00.04-4_INVESTIGATION
+--------------------------------------------------------------------------------
+P-00.04-0035: HR must open case within 2 business days.
+P-00.04-0036: Investigation completed within 10 business days.
+P-00.04-0037: Employee must be given chance to respond.
+
+[SUBSECTION 00.05] 5. Appeals
+SECTION_ID: SEC-00.05-5_APPEALS
+--------------------------------------------------------------------------------
+P-00.05-0042: Employee may appeal disciplinary decision within 5 business days.
+
+[TABLES]
+--------------------------------------------------------------------------------
+TABLE_01_START
+ROW_01: Version | 1.0
+ROW_02: Effective Date | 01-Jan-2026
+ROW_03: Owner | Employee Relations
+TABLE_01_END
+--------------------------------------------------------------------------------
