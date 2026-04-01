@@ -33,9 +33,10 @@ Once redirected to `/chat`, the HR assistant greets you by name and shows:
 Type your question in the chat input and press **Enter** (or click Send).
 
 The assistant will:
-1. Search the HR knowledge base for relevant policy excerpts.
-2. Generate a response grounded in those excerpts, citing the source document.
-3. Stream the response token-by-token so you see it as it is generated.
+1. Search the HR knowledge base for relevant policy excerpts, re-ranking results by a blend of semantic similarity and keyword match.
+2. If the initial results lack sufficient context, automatically fetch the full text of the relevant document.
+3. Generate a response grounded in those excerpts, citing the source document and section.
+4. Stream the response token-by-token so you see it as it is generated.
 
 Example questions:
 - "How many days of annual leave am I entitled to?"
@@ -57,16 +58,19 @@ Two action buttons appear at the start of each chat session (and after clearing 
 Place `.txt` files in the `assets/` directory, then run:
 
 ```bash
-make build-db
+make clean-db && make build-db
 ```
 
-The ChromaDB index is rebuilt from scratch. Restart the server afterwards if it is already running, so the new index is loaded.
+`clean-db` removes the existing ChromaDB index to avoid conflicts with stale data. `build-db` re-indexes all documents using **semantic chunking** — each file is split at paragraph and section boundaries rather than arbitrary character windows, so every chunk represents a coherent piece of policy text.
 
 To index a custom directory:
 
 ```bash
 make build-db DOCS_PATH=/path/to/your/docs
 ```
+
+Restart the server afterwards if it is already running so the new index is loaded.
+
 
 ## Accessing the Chat Directly
 
